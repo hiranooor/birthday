@@ -1275,13 +1275,10 @@ audio {
 	display: none;
 }
 .message p {
-	font-family: 'Palatino Linotype', sans-serif;
 	font-size: 30px;
 	text-transform: uppercase;
 	color: black;
-	text-shadow: 2px 2px 2px #FFF;
 	display: none;
-	font-weight: bold;
 }
 
 .btn-primary {
